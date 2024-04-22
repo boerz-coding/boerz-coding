@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Boer. I am building my personal profile. It might be obvious that this website is still under construction. I hope it will be completed soon!
+世界好。
 
 <!--
 **boerz-coding/boerz-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
