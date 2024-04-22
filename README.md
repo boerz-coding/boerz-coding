@@ -1,7 +1,11 @@
 ### Hi there 👋
-My name is Boer. I am building my personal profile. It might be obvious that this website is still under construction. I hope it will be completed soon!
+My name is Boer. I am building my personal profile. I hope it will be completed soon!
 
-世界好。
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=boerz-coding&column=7)](https://github.com/boerz-coding)
+-->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=boerz-coding&show_icons=true&hide_border=true" />
 
 ![](https://komarev.com/ghpvc/?username=boerz-coding&color=brightgreen)
 
