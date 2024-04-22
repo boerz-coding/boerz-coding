@@ -3,6 +3,8 @@ My name is Boer. I am building my personal profile. It might be obvious that thi
 
 世界好。
 
+![](https://komarev.com/ghpvc/?username=boerz-coding&color=brightgreen)
+
 <!--
 **boerz-coding/boerz-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
