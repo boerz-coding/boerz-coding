@@ -1,11 +1,13 @@
 ### Hi there 👋
-My name is Boer. I am building my personal profile. I hope it will be completed soon!
+My name is Boer. 
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=boerz-coding&column=7)](https://github.com/boerz-coding)
 -->
 
+<!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=boerz-coding&show_icons=true&hide_border=true" />
+-->
 
 ![](https://komarev.com/ghpvc/?username=boerz-coding&color=brightgreen)
 
