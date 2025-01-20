@@ -12,7 +12,7 @@ Welcome to my GitHub! I am a PhD candidate at Harvard University, specializing i
 
 This repository contains the implementation of a framework for studying ocean circulation and age distribution. It supports analyses critical to understanding global ocean dynamics.
 
-- **Repository:** [test\_age\_framework](https://github.com/boerz-coding/test_age_framework)
+- **Repository:** [Age Framework Paper Code](https://github.com/boerz-coding/test_age_framework)
 
 
 ---
@@ -20,7 +20,7 @@ This repository contains the implementation of a framework for studying ocean ci
 
 ReinLife is a mobile application designed to help users acquire new skills. It features a customizable backend for computer science researchers, enabling tailored use cases. This was the Harvard CS master capstone project.
 
-- **Repository:** [ReinLife\_Document](https://github.com/ReinLife-AC297r/ReinLife_Document)
+- **Repository:** [ReinLife](https://github.com/ReinLife-AC297r/ReinLife_Document)
 
 ---
 
@@ -28,7 +28,7 @@ ReinLife is a mobile application designed to help users acquire new skills. It f
 
 A custom implementation of an AutoDifferentiation package developed as part of a computational science course. It provides tools for automatic differentiation to simplify complex derivatives.
 
-- **Repository:** [cs107-FinalProject](https://github.com/CS107-gharvar4d/cs107-FinalProject)
+- **Repository:** [ADG4](https://github.com/CS107-gharvar4d/cs107-FinalProject)
 
 ---
 
@@ -36,7 +36,7 @@ A custom implementation of an AutoDifferentiation package developed as part of a
 
 This project focuses on parallelizing the STILT atmospheric transport model using AWS to accelerate large-scale environmental simulations.
 
-- **Repository:** [cs205-spring-20-final](https://github.com/jimmielin/cs205-spring-20-final)
+- **Repository:** [Parallelizing STILT](https://github.com/jimmielin/cs205-spring-20-final)
 
 ---
 
