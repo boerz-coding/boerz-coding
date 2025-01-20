@@ -2,7 +2,7 @@
 
 
 
-Welcome to my GitHub! I am a PhD candidate at Harvard University, specializing in climate physics. My work involves combining climate science and computational techniques to explore and solve complex environmental challenges. Below are some of the projects I’ve contributed to, showcasing my research and development experience across scientific computing, model parallelization, and app development.
+Welcome to my GitHub! I am a PhD candidate at Harvard University, specializing in climate physics. My work involves combining climate science and computational techniques to explore and solve complex environmental challenges.
 
 ---
 
