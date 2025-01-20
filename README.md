@@ -1,5 +1,52 @@
 ### Hi there 👋
-My name is Boer. 
+
+
+
+Welcome to my GitHub! I am a PhD candidate at Harvard University, specializing in climate physics. My work involves combining climate science and computational techniques to explore and solve complex environmental challenges. Below are some of the projects I’ve contributed to, showcasing my research and development experience across scientific computing, model parallelization, and app development.
+
+---
+
+## Projects
+
+### 1. Ocean Circulation Age Framework Paper Code
+
+**Description:** This repository contains the implementation of a framework for studying ocean circulation and age distribution. It supports analyses critical to understanding global ocean dynamics.
+
+- **Repository:** [test\_age\_framework](https://github.com/boerz-coding/test_age_framework)
+
+
+---
+### 2. ReinLife: Mobile App for Skill Learning
+
+**Description:** ReinLife is a mobile application designed to help users acquire new skills. It features a customizable backend for computer science researchers, enabling tailored use cases. This was the Harvard CS master capstone project.
+
+- **Repository:** [ReinLife\_Document](https://github.com/ReinLife-AC297r/ReinLife_Document)
+
+---
+
+### 3. AutoDifferentiation Package (Course Project)
+
+**Description:** A custom implementation of an AutoDifferentiation package developed as part of a computational science course. It provides tools for automatic differentiation to simplify complex derivatives.
+
+- **Repository:** [cs107-FinalProject](https://github.com/CS107-gharvar4d/cs107-FinalProject)
+
+---
+
+### 4. Parallelization of the STILT Atmospheric Transport Model on AWS (Course Project)
+
+**Description:** This project focuses on parallelizing the STILT atmospheric transport model using AWS to accelerate large-scale environmental simulations.
+
+- **Repository:** [cs205-spring-20-final](https://github.com/jimmielin/cs205-spring-20-final)
+
+---
+
+
+
+Feel free to explore the repositories and reach out with any questions or collaboration ideas. Thank you for visiting my GitHub!
+
+
+
+
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=boerz-coding&column=7)](https://github.com/boerz-coding)
