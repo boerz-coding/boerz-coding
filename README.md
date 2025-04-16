@@ -15,31 +15,6 @@ This repository contains the implementation of a framework for studying ocean ci
 - **Repository:** [Age Framework Paper Code](https://github.com/boerz-coding/test_age_framework)
 
 
----
-### 2. ReinLife: Mobile App for Skill Learning
-
-ReinLife is a mobile application designed to help users acquire new skills. It features a customizable backend for computer science researchers, enabling tailored use cases. This was the Harvard CS master capstone project.
-
-- **Repository:** [ReinLife](https://github.com/ReinLife-AC297r/ReinLife_Document)
-
----
-
-### 3. AutoDifferentiation Package (Course Project)
-
-A custom implementation of an AutoDifferentiation package developed as part of a computational science course. It provides tools for automatic differentiation to simplify complex derivatives.
-
-- **Repository:** [ADG4](https://github.com/CS107-gharvar4d/cs107-FinalProject)
-
----
-
-### 4. Parallelization of the STILT Atmospheric Transport Model on AWS (Course Project)
-
-This project focuses on parallelizing the STILT atmospheric transport model using AWS to accelerate large-scale environmental simulations.
-
-- **Repository:** [Parallelizing STILT](https://github.com/jimmielin/cs205-spring-20-final)
-
----
-
 
 
 Feel free to explore the repositories and reach out with any questions or collaboration ideas. Thank you for visiting my GitHub!
